@@ -2,68 +2,61 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0"/>
     <title>Trabajos de Laboratorio de Computación II</title>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" integrity="sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
-    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.7.2/angular.min.js"></script>
-    <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0" />
-    <script>
-        var miapp = angular.module('miapp',[]).controller("micontrolador",function($scope) {
-            $scope.proyectos = [
-                {"tema":"Trayectoria de Tiro Oblicuo", "url":"https://ucc-labcompu2-historico.github.io/proyecto2016-trayectoriaTiroOblicuo","autor1":"Lautaro Garcia Celador","autor2":"","anio":"2016"},
-                {"tema":"Tiro Oblicuo", "url":"https://ucc-labcompu2-historico.github.io/proyecto2016-tiroOblicuo/principal.html","autor1":"Mirco Fiocchi","autor2":"Franco Truffa","anio":"2016"},
-                {"tema":"Energia", "url":"https://ucc-labcompu2-historico.github.io/proyecto2016-Energia","autor1":"Franco Ferreyra","autor2":"Damian De la Fuente","anio":"2016"},
-                {"tema":"Plano Inclinado", "url":"https://ucc-labcompu2-historico.github.io/proyecto2016-planoInclinado","autor1":"Enzo Dall Colle","autor2":"Nicolas Gangi","anio":"2016"},
-                {"tema":"Conservación de Energía", "url":"https://ucc-labcompu2-historico.github.io/FisicaConservacionEnergia","autor1":"Sebastian Murgui","autor2":"Ian Horrocks","anio":"2016"},
-                {"tema":"Tiro Parabólico", "url":"https://ucc-labcompu2-historico.github.io/proyecto2016-proyectil","autor1":"Nicolas Kolbelt","autor2":"","anio":"2016"},
-                {"tema":"Tiro Parabólico", "url":"https://ucc-labcompu2-historico.github.io/proyecto2017-tiroParabolico","autor1":"Azul Andrade","autor2":"Laura Pognante","anio":"2016"},
-                {"tema":"Encuentro", "url":"https://ucc-labcompu2-historico.github.io/proyecto2016-encuentro","autor1":"Julieta Bertorello","autor2":"Rocio Piantoni","anio":"2016"},
-                {"tema":"Péndulo Balistico", "url":"https://ucc-labcompu2-historico.github.io/proyecto2016-penduloBalistico/Index.html","autor1":"Juan Ignacio Catalano","autor2":"Juan Cataneo","anio":"2016"},
-                {"tema":"Palanca", "url":"https://ucc-labcompu2-historico.github.io/proyecto2016-palanca","autor1":"Federico Montalvo","autor2":"Federico Baiocco","anio":"2016"},
-                {"tema":"Óptica: Refracción", "url":"https://ucc-labcompu2-historico.github.io/Proyecto-Laboratorio/Contenido.html","autor1":"Ignacio Achaval","autor2":"","anio":"2016"},
-                {"tema":"Ley de Snell", "url":"https://ucc-labcompu2-historico.github.io/proyecto2017-LeySnell/","autor1":"Sofía Cortez","autor2":"Nicolas Kochlowski","anio":"2016"},
-                {"tema":"Péndulo Cónico", "url":"https://ucc-labcompu2-historico.github.io/proyecti2017-penduloConico/CodigoPenduloConico.html","autor1":"Nicolás Grupe","autor2":"Marcos Lozada","anio":"2016"},
-                {"tema":"Presion Hidroestática", "url":"https://ucc-labcompu2-historico.github.io/proyecto-duckyweb/","autor1":"Nelo Gino Nanfara","autor2":"Roberto Leandro Ruiz","anio":"2017"},
-                {"tema":"Cargas Eléctricas", "url":"https://ucc-labcompu2-historico.github.io/proyecto-coulombfordummies/","autor1":"Santiago Diaz Gonzalez","autor2":"Facundo Bayona","anio":"2017"},
-                {"tema":"Sistema de Gestión", "url":"https://ucc-labcompu2-historico.github.io/proyecto-senestrari/","autor1":"Francisco Senestrari","anio":"2017"},
-                {"tema":"Circuitos RC", "url":"http://ucc-labcompu2-historico.github.io/proyecto2018-mirandalabii","autor1":"Matias Miranda","anio":"2018"},
-                {"tema":"Rozamiento", "url":"https://ucc-labcompu2-historico.github.io/proyecto2018-luzuriaga-galmes-lab-compu-ii/index.html","autor1":"Facundo Luzuriaga","autor2":"Francisco Galmes","anio":"2018"},
-                {"tema":"Simulador del Sistema Solar", "url":"https://ucc-labcompu2-historico.github.io/proyecto-2018-Nievas-Bobadilla","autor1":"Franco Bobadilla","autor2":"Agustín Nievas","anio":"2018"},
-                {"tema":"Simulador del Sistema Solar", "url":"https://ucc-labcompu2-historico.github.io/proyecto2018-estrella","autor1":"Carolina Misa","autor2":"Matías Insaurralde","anio":"2018"},
-                {"tema":"Difracción de la Luz", "url":"https://ucc-labcompu2-historico.github.io/proyecto2018-rodriteam/","autor1":"Rodrigo Pizarro","autor2":"","anio":"2018"}
-                ]
-
-
-        });
-    </script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/css/bootstrap.min.css"
+          integrity="sha384-Smlep5jCw/wG7hdkwQ/Z5nLIefveQRIY9nfy6xoR1uRYBtpZgI6339F5dgvm/e9B" crossorigin="anonymous">
+    <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"
+          integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/vue"></script>
+    <script src="data.js"></script>
 </head>
-<body ng-app="miapp">
+<body>
 
 <header>
     <h1> Proyectos </h1>
 </header>
 
-<div ng-controller="micontrolador">
-    <table class="table table-striped table-hover">
-        <thead>
-        <tr>
-            <th>Tema</th>
-            <th>Autor 1</th>
-            <th>Autor 2</th>
-            <th>Año</th>
-        </tr>
-        </thead>
-        <tbody>
-        <tr ng-repeat="proyecto in proyectos">
-            <th><a href="{{proyecto.url}}" target="_blank"> {{proyecto.tema}}</a></th>
-            <th>{{proyecto.autor1}}</th>
-            <th>{{proyecto.autor2}}</th>
-            <th>{{proyecto.anio}}</th>
-        </tr>
-        </tbody>
-    </table>
+<!-- TODO: Agregar filtros con vue-->
+<div id="app" class="container-fluid">
+    <div class="row">
+        <div v-for="proyecto in proyectos" class="col-sm-6 col-md-4 d-flex">
+            <div class="card flex-fill mb-3">
+                <div class="card-header">
+                    <h4>{{ proyecto.tema }}</h4>
+                    <a class="badge" :href="'http://www.github.com/ucc-labcompu2-historico/' + proyecto.url"><span class="fa fa-github"></span>Repo</a>
+                    <span class="float-right badge badge-secondary"><b>Año </b>{{ proyecto.anio }}</span>
+                </div>
+                <div class="card-body">
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <b>Alumnos:</b>
+                            <ul>
+                                <li v-for="autor in proyecto.autores">{{ autor }}</li>
+                            </ul>
+
+                        </div>
+                        <div class="col-lg-6">
+                            <a :href="'http://ucc-labcompu2-historico.github.io/' + proyecto.url">
+                                <img :src="'http://api.miniature.io/?screen=1024&url=http://ucc-labcompu2-historico.github.io/' + proyecto.url "
+                                     alt="" class="img-fluid img-thumbnail">
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
 
 
-
+<script>
+    let app = new Vue({
+        el: '#app',
+        data: {
+            proyectos: datos
+        }
+    })
+</script>
 </body>
 </html>
