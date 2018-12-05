@@ -130,5 +130,11 @@ var datos = [
         "url": "proyecto-a-team-1",
         "autores": ["Grandon Adrian"],
         "anio": "2018"
+    },
+    {
+        "tema": "Choque",
+        "url": "proyecto2018-lucero-ortega-lab-compu-ll",
+        "autores": ["Ortega Palma Cindy Micaela","Lucero Milena"],
+        "anio": "2018"
     }
 ];
