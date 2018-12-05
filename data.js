@@ -124,5 +124,11 @@ var datos = [
         "url": "proyecto2018-rodriteam",
         "autores": ["Rodrigo Pizarro"],
         "anio": "2018"
+    },
+    {
+        "tema": "Calculadora de Vectores",
+        "url": "proyecto-a-team-1",
+        "autores": ["Grandon Adrian"],
+        "anio": "2018"
     }
 ];
