@@ -136,5 +136,31 @@ var datos = [
         "url": "proyecto2018-lucero-ortega-lab-compu-ll",
         "autores": ["Ortega Palma Cindy Micaela","Lucero Milena"],
         "anio": "2018"
+    },
+    {
+        "tema": "Citogenética en Leucemia Mieloide Crónica",
+        "url": "proyectos2019-nibeyrog",
+        "autores": ["Nibeyro, Guadalupe"],
+        "anio": "2019"
+    },
+    {
+        "tema": "Geometría",
+        "url": "proyectos2019-chiletti-vazquezdlcolina",
+        "autores": ["Chiletti, Emanuel", "Vázquez de la Colina, Matías"],
+        "anio": "2019"
+    },
+    {
+        "tema": "Calculadora de Triángulos Rectángulos",
+        "url": "proyectos2019-santiago-mondino-y-juan-pablo-cozzi",
+        "autores": ["Mondino, Santiago", "Cozzi, Juan Pablo"],
+        "anio": "2019"
+    },
+    {
+        "tema": "Factoreando",
+        "url": "proyectos2019-proyecto2019-londero-vazquez",
+        "autores": ["Vázquez, Sol", "Londero, Camila Soledad"],
+        "anio": "2019"
     }
 ];
+
+
