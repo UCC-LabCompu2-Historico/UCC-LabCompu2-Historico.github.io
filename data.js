@@ -160,6 +160,24 @@ var datos = [
         "url": "proyectos2019-proyecto2019-londero-vazquez",
         "autores": ["Vázquez, Sol", "Londero, Camila Soledad"],
         "anio": "2019"
+    },
+    {
+        "tema": "Mangueras",
+        "url": "proyectos2019-proyecto2019-dimarco-giraudo/MainPage.html",
+        "autores": ["Di Marco, Octavio", "Giraudo, Tomas"],
+        "anio": "2019"
+    },
+    {
+        "tema": "Frac!",
+        "url": "proyectos2019-Dominguez-Nanfara",
+        "autores": ["Nanfara, Nara Abril", "Dominguez Mendoza, Rocio"],
+        "anio": "2019"
+    },
+    {
+        "tema": "Sistema de Ecuaciones",
+        "url": "proyectos2019-favaro-menel/inicio.html",
+        "autores": ["Favaro, Juan Cruz", "Menel, Angelo"],
+        "anio": "2019"
     }
 ];
 
