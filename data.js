@@ -178,6 +178,78 @@ var datos = [
         "url": "proyectos2019-favaro-menel/inicio.html",
         "autores": ["Favaro, Juan Cruz", "Menel, Angelo"],
         "anio": "2019"
+    },
+    {
+        "tema": "Calculadora de Tiro Parabólico",
+        "url": "proyectos2020-zanini-bergami/index.html",
+        "autores": ["Bergami, Nicolas", "Zanini, Agustin"],
+        "anio": "2020"
+    },
+    {
+        "tema": "Discovering Alpha Centauri",
+        "url": "proyectos2020-caceres-karanicolas/index.html",
+        "autores": ["Caceres Ruberto, Federico", "Karanicolas, Facundo"],
+        "anio": "2020"
+    },
+    {
+        "tema": "Química - Compuestos Binarios",
+        "url": "proyectos2020-ceballos-cerrutti/Index.html",
+        "autores": ["Ceballos, Martina Liz", "Cerrutti, Angie Lucía"],
+        "anio": "2020"
+    },
+    {
+        "tema": "LEY DE OHM",
+        "url": "proyectos2020-colla-gonzalez/index.html",
+        "autores": ["Colla,Julian", "Gonzalez,Tomas"],
+        "anio": "2020"
+    },
+    {
+        "tema": "Knighty Knight",
+        "url": "proyectos2020-villarreal-ghilino-eujanian/index.html",
+        "autores": ["Eujanian, Amir", "Ghilino Ramiro", "Villarreal, Juan"],
+        "anio": "2020"
+    },
+    {
+        "tema": "El agua en solución",
+        "url": "proyectos2020-folco/index.html",
+        "autores": ["Folco, Juan"],
+        "anio": "2020"
+    },
+    {
+        "tema": "El Dinosaurio Cordobes",
+        "url": "proyectos2020-marinelli-sole/index.html",
+        "autores": ["Marinelli, Ignacio", "Sole, Leonel"],
+        "anio": "2020"
+    },
+    {
+        "tema": "Tiro oblicuo",
+        "url": "proyectos2020-saenz-moriconi/index.html",
+        "autores": ["Moriconi, Justo", "Saenz, Lautaro"],
+        "anio": "2020"
+    },
+    {
+        "tema": "Lab de Compu 2 - Examen",
+        "url": "proyectos2020-oechsle-sappia/index.html",
+        "autores": ["Oechsle, Lucas", "Sappia, Francisco"],
+        "anio": "2020"
+    },
+    {
+        "tema": "MESSIER: Astronomia",
+        "url": "proyectos2020-tzvir/index.html",
+        "autores": ["Tzvir, Vera"],
+        "anio": "2020"
+    },
+    {
+        "tema": "JumpKing",
+        "url": "proyectos2021-ruibal-francisco/Index.html",
+        "autores": ["Ruibal, Francisco"],
+        "anio": "2021"
+    },
+    {
+        "tema": "Snake",
+        "url": "proyectos2021-angelone-apfelbaum-garcia/index.html",
+        "autores": ["Angelone, Benjamín", "Apfelbaum, Ana Paula", "Garcia, Octavio"],
+        "anio": "2021"
     }
 ];
 
