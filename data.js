@@ -138,6 +138,18 @@ var datos = [
         "anio": "2018"
     },
     {
+        "tema": "Ácidos - Base",
+        "url": "proyecto-andrade",
+        "autores": ["Ayelén Stefanía Andrade"],
+        "anio": "2018"
+    },
+    {
+        "tema": "Choques Inelásticos",
+        "url": "proyecto2018-ribetti-others/Proyecto-Ribetti/index.html",
+        "autores": ["Ribetti, Facundo"],
+        "anio": "2018"
+    },
+    {
         "tema": "Citogenética en Leucemia Mieloide Crónica",
         "url": "proyectos2019-nibeyrog",
         "autores": ["Nibeyro, Guadalupe"],
@@ -147,6 +159,66 @@ var datos = [
         "tema": "Geometría",
         "url": "proyectos2019-chiletti-vazquezdlcolina",
         "autores": ["Chiletti, Emanuel", "Vázquez de la Colina, Matías"],
+        "anio": "2019"
+    },
+    {
+        "tema": "Calculadora de Ecuaciones",
+        "url": "proyectos2019-proyecto2019-barbero-caceres/Main.html",
+        "autores": ["Barbero, Agustín", "Caceres, Matías"],
+        "anio": "2019"
+    },
+    {
+        "tema": "Simulador de Carreras",
+        "url": "proyectos2019-proyecto2019-arias-lopezscala/index.html",
+        "autores": ["Arias, Lucas", "Lopez Scala, Facundo"],
+        "anio": "2019"
+    },
+    {
+        "tema": "Calculadora de Superficies-Volumenes",
+        "url": "proyectos2019-matias-boldini/Templates/index.html",
+        "autores": ["Boldini, Matias"],
+        "anio": "2019"
+    },
+    {
+        "tema": "Ecuaciones",
+        "url": "proyectos2019-proyecto2019-flecha-bruno/HTML/index.html",
+        "autores": ["Bruno, Augusto", "Flecha, Facundo"],
+        "anio": "2019"
+    },
+    {
+        "tema": "Campos Eléctrico",
+        "url": "proyectos2019-cobresi-vietto/index.html",
+        "autores": ["Cobresi Serravalle, Ticiana María", "Flecha, Facundo"],
+        "anio": "2019"
+    },
+    {
+        "tema": "Ecuaciones de Primer y Segundo Grado y Sistemas de Ecuaciones",
+        "url": "proyectos2019-proyecto2019-cabral-paschini/index.html",
+        "autores": ["Cabral, Camila Belén", "Vietto Herrera, Santiago"],
+        "anio": "2019"
+    },
+    {
+        "tema": "ANGUBLOCKS",
+        "url": "proyectos2019-proyecto-garces-stuyck/Teoria.html",
+        "autores": ["Garces Muñoz, Facundo Hernán", "Stuyck, Elián"],
+        "anio": "2019"
+    },
+    {
+        "tema": "Triangulos Rectangulos",
+        "url": "proyectos2019-proyecto2019-vargas-merlo/index.html",
+        "autores": ["Merlo, Angelo", "Vargas, María Micaela"],
+        "anio": "2019"
+    },
+    {
+        "tema": "Gemetricate",
+        "url": " proyectos2019-proyecto2019-piantoni-virga/proyectos2019-proyecto2019-piantoni-virga-master 2/HTML/index.html ",
+        "autores": ["Piantoni Vera, Francisco", "Virga, Santos José"],
+        "anio": "2019"
+    },
+    {
+        "tema": "Expresiones Algebraicas",
+        "url": " proyectos2019-proyecto2019-luna/index.html",
+        "autores": ["Luna, Ignacio Emiliano"],
         "anio": "2019"
     },
     {
