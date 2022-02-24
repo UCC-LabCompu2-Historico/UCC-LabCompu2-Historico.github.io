@@ -373,7 +373,7 @@ var datos = [
     },
     {
         "tema": "Snake",
-        "url": "proyectos2021-angelone-apfelbaum-garcia/index.html",
+        "url": "proyecto2021-angelone-apfelbaum-garcia/",
         "autores": ["Angelone, Benjamín", "Apfelbaum, Ana Paula", "Garcia, Octavio"],
         "anio": "2021"
     },
@@ -421,7 +421,7 @@ var datos = [
     },
     {
         "tema": "Tiro Parabólico de Messi (Messirve)",
-        "url": "proyecto2021-arenillas-piancatelli/Index.html",
+        "url": "proyecto2021-arguello-fernandez/index.html",
         "autores": ["Arguello, Clara", "Fernandez, Pedro"],
         "anio": "2021"
     },
