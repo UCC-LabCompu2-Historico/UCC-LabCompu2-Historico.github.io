@@ -312,6 +312,60 @@ var datos = [
         "anio": "2020"
     },
     {
+        "tema": "Plazo Fijo",
+        "url": "proyectos2020-antonel-berretta/index.html",
+        "autores": ["Antonel, Gino", "Berreta, Tomas"],
+        "anio": "2020"
+    },
+    {
+        "tema": "Matrices Escalonadas Reducidas x Fila",
+        "url": "proyectos2020-barafani-dubowez/index.html",
+        "autores": ["Barafani, Facundo", "Dubowez, Juan Cruz"],
+        "anio": "2020"
+    },
+    {
+        "tema": "KUKΛO - Identidades Trigonometricas",
+        "url": "proyectos2020-bobadilla/index.html",
+        "autores": ["Bobadilla, Manuel"],
+        "anio": "2020"
+    },
+    {
+        "tema": "Área: Circulo, Triángulo, Rectángulo",
+        "url": "proyectos2020-rojas-carlesso/index.html",
+        "autores": ["Carlesso Bruno, Nazareno Javier", "Rojas, Juan Pablo"],
+        "anio": "2020"
+    },
+    {
+        "tema": "PIB - Producto Interno Bruto",
+        "url": "proyectos2020-bucci-colman/index.html",
+        "autores": ["Bucci, Tomás", "Colman, Nicolás"],
+        "anio": "2020"
+    },
+    {
+        "tema": "Calculadora de Masa Corporal",
+        "url": "proyectos2020-casermeiro/index.html",
+        "autores": ["Casermeiro, Silvia"],
+        "anio": "2020"
+    },
+    {
+        "tema": "Tetris",
+        "url": "proyectos2020-cetti-enders-nunez/index.html",
+        "autores": ["Cetti, Mateo Pablo", "Enders, Guillermo", "Nuñez, Ivan Luis"],
+        "anio": "2020"
+    },
+    {
+        "tema": "Graficar Funciones",
+        "url": "proyectos2020-lescano/main.html",
+        "autores": ["Lescano, Martin"],
+        "anio": "2020"
+    },
+    {
+        "tema": "Cuarentena Mood",
+        "url": "proyectos2020-margaria/index.html",
+        "autores": ["Margaría, Luciano"],
+        "anio": "2020"
+    },
+    {
         "tema": "JumpKing",
         "url": "proyectos2021-ruibal-francisco/Index.html",
         "autores": ["Ruibal, Francisco"],
@@ -321,6 +375,114 @@ var datos = [
         "tema": "Snake",
         "url": "proyectos2021-angelone-apfelbaum-garcia/index.html",
         "autores": ["Angelone, Benjamín", "Apfelbaum, Ana Paula", "Garcia, Octavio"],
+        "anio": "2021"
+    },
+    {
+        "tema": "Sudoku",
+        "url": "proyecto2021-gergolet-aguero/index.html",
+        "autores": ["Agüero, Santiago", "Gergolet, Julian"],
+        "anio": "2021"
+    },
+    {
+        "tema": "Caída Libre",
+        "url": "proyecto2021-aguilar/index.html",
+        "autores": ["Aguilar, Belen"],
+        "anio": "2021"
+    },
+    {
+        "tema": "Videojuego Retro",
+        "url": "proyecto2021-aparicio-lujan/index.html",
+        "autores": ["Aparicio, Tomas", "Lujan, Lautaro"],
+        "anio": "2021"
+    },
+    {
+        "tema": "Videojuego Retro",
+        "url": "proyecto2021-aparicio-lujan/index.html",
+        "autores": ["Aparicio, Tomas", "Lujan, Lautaro"],
+        "anio": "2021"
+    },
+    {
+        "tema": "MemoCard",
+        "url": "proyecto2021-aquilino-vietto/index.html",
+        "autores": ["Aquilino, Octavio", "Vietto, Joaquin"],
+        "anio": "2021"
+    },
+    {
+        "tema": "Simulador de Guitarra",
+        "url": "proyecto2021-araya/index.html",
+        "autores": ["Araya, Agustina"],
+        "anio": "2021"
+    },
+    {
+        "tema": "Triángulos Rectángulos",
+        "url": "proyecto2021-arenillas-piancatelli/Index.html",
+        "autores": ["Arenillas, Felipe", "Piancatelli, Franco"],
+        "anio": "2021"
+    },
+    {
+        "tema": "Tiro Parabólico de Messi (Messirve)",
+        "url": "proyecto2021-arenillas-piancatelli/Index.html",
+        "autores": ["Arguello, Clara", "Fernandez, Pedro"],
+        "anio": "2021"
+    },
+    {
+        "tema": "Área de Figuras Geometricas",
+        "url": "proyecto2021-cersofios-henderson/index.html",
+        "autores": ["Cersofios, Sofia", "Henderson, Agostina"],
+        "anio": "2021"
+    },
+    {
+        "tema": "Estética y Spa",
+        "url": "proyecto2021-cuenca-gonzales/Index.HTML",
+        "autores": ["Cuenca, Mateo", "Gonzalez, Francisco"],
+        "anio": "2021"
+    },
+    {
+        "tema": "M.R.U.",
+        "url": "proyecto2021-Garza-Degiovanni/index.html",
+        "autores": ["Degiovanni, Juan Ignacio", "Garza, Leandro"],
+        "anio": "2021"
+    },
+    {
+        "tema": "Juego de Números",
+        "url": "proyecto2021-gomezpizarro/index.html",
+        "autores": ["Gomez Pizarro, Gonzalo"],
+        "anio": "2021"
+    },
+    {
+        "tema": "Exploración Espacial",
+        "url": "proyecto2021-Reyero-Karanicolas/html/index.html",
+        "autores": ["Karanicolas, Agustin", "Reyero, Joaquin"],
+        "anio": "2021"
+    },
+    {
+        "tema": "Operaciones Bancarias",
+        "url": "proyecto2021-RiverosSalomon-Lessio/Index.html",
+        "autores": ["Lessio, Matías Francisco", "Riveros Salomón, Santiago Agustín"],
+        "anio": "2021"
+    },
+    {
+        "tema": "Ahorcado",
+        "url": "proyecto2021-mansilla-zuliani/index.html",
+        "autores": ["Mansilla, Milagros", "Zuliani, Francina"],
+        "anio": "2021"
+    },
+    {
+        "tema": "Transformador Eléctrico",
+        "url": "proyecto2021-peralta/Index.html",
+        "autores": ["Peralta, Julieta"],
+        "anio": "2021"
+    },
+    {
+        "tema": "Dados",
+        "url": "proyecto2021-petrashin/index.html",
+        "autores": ["Petrashin, Pedro Nicolas"],
+        "anio": "2021"
+    },
+    {
+        "tema": "Universidad Nacional de los Nicos",
+        "url": "proyecto2021-prandi-rojo/index.html",
+        "autores": ["Rojo, Nicolas", "Prandi, Nicolas"],
         "anio": "2021"
     }
 ];
