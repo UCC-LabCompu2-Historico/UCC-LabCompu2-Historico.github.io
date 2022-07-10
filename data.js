@@ -526,6 +526,78 @@ var datos = [
         "url": "proyecto2022-miron/index.html",
         "autores": ["Miron, Juan Pablo"],
         "anio": "2022"
+    },
+    {
+        "tema": "Restaurante Vegano",
+        "url": "proyecto2022-borgogno-saad/index.html",
+        "autores": ["Borgogno, Francisco Giovanni", "Saad Moisés, Selene"],
+        "anio": "2022"
+    },
+    {
+        "tema": "Lotus Casino",
+        "url": "proyecto2022-canas-lucero/index.html",
+        "autores": ["Cañas, Felipe", "Lucero Ruiz, Maximo"],
+        "anio": "2022"
+    },
+    {
+        "tema": "dot drop",
+        "url": "proyecto2022-ahumada-cetti/index.html",
+        "autores": ["Ahumada, Julian", "Cetti, Paolo"],
+        "anio": "2022"
+    },
+    {
+        "tema": "dot drop",
+        "url": "proyecto2022-ahumada-cetti/index.html",
+        "autores": ["Ahumada, Julian", "Cetti, Paolo"],
+        "anio": "2022"
+    },
+    {
+        "tema": "¿Programación?",
+        "url": "proyecto2022-gomez-rossi/index.html",
+        "autores": ["Gomez, Lucila", "Rossi, Giuliana Sofia"],
+        "anio": "2022"
+    },
+    {
+        "tema": "The Vagrant",
+        "url": "proyecto2022-muscellini/index.html",
+        "autores": ["Muscellini,Santiago Tomás"],
+        "anio": "2022"
+    },
+    {
+        "tema": "Pacman",
+        "url": "proyecto2022-quelas-navas/index.html",
+        "autores": ["Navas, Santiago", "Quelas, Maximiliano"],
+        "anio": "2022"
+    },
+    {
+        "tema": "Escuela de Arquería",
+        "url": "proyecto2022-negriocampo-romeroreyna/index.html",
+        "autores": ["Negri Ocampo, Mateo", "Romero Reyna, Santos"],
+        "anio": "2022"
+    },
+    {
+        "tema": "Escuela de Arquería",
+        "url": "proyecto2022-negriocampo-romeroreyna/index.html",
+        "autores": ["Negri Ocampo, Mateo", "Romero Reyna, Santos"],
+        "anio": "2022"
+    },
+    {
+        "tema": "Choques",
+        "url": "proyecto2022-oberti-vaccarini/index.html",
+        "autores": ["Oberti Busso, Paulina", "Vaccarini, María Victoria"],
+        "anio": "2022"
+    },
+    {
+        "tema": "Sara - Tienda de Ropa",
+        "url": "proyecto2022-perona-rivero-bosch/index.html",
+        "autores": ["Perona, Valentina", "Rivero Bosch, Josefina"],
+        "anio": "2022"
+    },
+    {
+        "tema": "UCC FLY",
+        "url": "proyecto2022-correa-schonfeld/index.html",
+        "autores": ["Correa, Lautaro", "Schonfeld, Gustavo"],
+        "anio": "2022"
     }
 ];
 
