@@ -484,6 +484,48 @@ var datos = [
         "url": "proyecto2021-prandi-rojo/index.html",
         "autores": ["Rojo, Nicolas", "Prandi, Nicolas"],
         "anio": "2021"
+    },
+    {
+        "tema": "Funciones Lineales",
+        "url": "proyecto2022-chattas/index.html",
+        "autores": ["Chattas, Maximo"],
+        "anio": "2022"
+    },
+    {
+        "tema": "Fotografía",
+        "url": "proyecto2022-elliott-morabito/index.html",
+        "autores": ["Elliott,Victoria", "Morabito, Leonardo"],
+        "anio": "2022"
+    },
+    {
+        "tema": "Naturalia",
+        "url": "proyecto2022-franciosi/index.html",
+        "autores": ["Franciosi, Ignacio"],
+        "anio": "2022"
+    },
+    {
+        "tema": "Tic Tac Toe",
+        "url": "proyecto2022-gaggio-filippin/portada.html",
+        "autores": ["Filippin Figueroa,Indalecio", "Gaggio, Valentino"],
+        "anio": "2022"
+    },
+    {
+        "tema": "Sudoku",
+        "url": "proyecto2022-garbellotto-gazzera/index.html",
+        "autores": ["Gazzera, Facundo", "Garbellotto, Tomas"],
+        "anio": "2022"
+    },
+    {
+        "tema": "Brick Breaker",
+        "url": "proyecto2022-blason_kostrun/index.html",
+        "autores": ["Blason, Agostina", "Kostrun, Roy"],
+        "anio": "2022"
+    },
+    {
+        "tema": "Bhaskara",
+        "url": "proyecto2022-miron/index.html",
+        "autores": ["Miron, Juan Pablo"],
+        "anio": "2022"
     }
 ];
 
