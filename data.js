@@ -606,12 +606,6 @@ var datos = [
         "anio": "2022"
     },
     {
-        "tema": "Resistencias Eléctricas",
-        "url": "proyecto2022-davila-gomez/index.html",
-        "autores": ["Davila, Rodrigo", "Gomez, Francisco"],
-        "anio": "2022"
-    },
-    {
         "tema": "Preguntados",
         "url": "proyecto2022-esperanza/index.html",
         "autores": ["Esperanza, Ignacio"],
