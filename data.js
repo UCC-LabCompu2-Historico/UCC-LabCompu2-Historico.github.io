@@ -546,12 +546,6 @@ var datos = [
         "anio": "2022"
     },
     {
-        "tema": "dot drop",
-        "url": "proyecto2022-ahumada-cetti/index.html",
-        "autores": ["Ahumada, Julian", "Cetti, Paolo"],
-        "anio": "2022"
-    },
-    {
         "tema": "¿Programación?",
         "url": "proyecto2022-gomez-rossi/index.html",
         "autores": ["Gomez, Lucila", "Rossi, Giuliana Sofia"],
@@ -597,6 +591,48 @@ var datos = [
         "tema": "UCC FLY",
         "url": "proyecto2022-correa-schonfeld/index.html",
         "autores": ["Correa, Lautaro", "Schonfeld, Gustavo"],
+        "anio": "2022"
+    },
+    {
+        "tema": "Travel with us",
+        "url": "proyecto2022-alessandroni-soriaA/index.html",
+        "autores": ["Alessandroni, Ornella", "Soria, Julieta"],
+        "anio": "2022"
+    },
+    {
+        "tema": "Resistencias Eléctricas",
+        "url": "proyecto2022-davila-gomez/index.html",
+        "autores": ["Davila, Rodrigo", "Gomez, Francisco"],
+        "anio": "2022"
+    },
+    {
+        "tema": "Resistencias Eléctricas",
+        "url": "proyecto2022-davila-gomez/index.html",
+        "autores": ["Davila, Rodrigo", "Gomez, Francisco"],
+        "anio": "2022"
+    },
+    {
+        "tema": "Preguntados",
+        "url": "proyecto2022-esperanza/index.html",
+        "autores": ["Esperanza, Ignacio"],
+        "anio": "2022"
+    },
+    {
+        "tema": "Pixel Racer",
+        "url": "proyecto2022-garzon-corrales/index.html",
+        "autores": ["Corrales, Manuel", "Garzon, Antonio"],
+        "anio": "2022"
+    },
+    {
+        "tema": "flappybird",
+        "url": "proyecto2022-gomez-ganancias-marengo/HTML%2C CSS y JS/index.html",
+        "autores": ["Gomez Ganancias, Aimara", "Marengo, Juliana"],
+        "anio": "2022"
+    },
+    {
+        "tema": "Juego de Naves",
+        "url": "proyecto2022-rufino-cascardo/index.html",
+        "autores": ["Cascardo, Giovanni", "Ruffino, Maximo"],
         "anio": "2022"
     }
 ];
