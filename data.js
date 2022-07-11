@@ -570,12 +570,6 @@ var datos = [
         "anio": "2022"
     },
     {
-        "tema": "Escuela de Arquería",
-        "url": "proyecto2022-negriocampo-romeroreyna/index.html",
-        "autores": ["Negri Ocampo, Mateo", "Romero Reyna, Santos"],
-        "anio": "2022"
-    },
-    {
         "tema": "Choques",
         "url": "proyecto2022-oberti-vaccarini/index.html",
         "autores": ["Oberti Busso, Paulina", "Vaccarini, María Victoria"],
