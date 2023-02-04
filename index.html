@@ -8,7 +8,7 @@
           integrity="sha384-Smlep5jCw/wG7hdkwQ/Z5nLIefveQRIY9nfy6xoR1uRYBtpZgI6339F5dgvm/e9B" crossorigin="anonymous">
     <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"
           integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
-    <script src="https://cdn.jsdelivr.net/npm/vue@2.6.14"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vue@2.7.14/dist/vue.js"></script>
     <script src="data.js"></script>
 </head>
 <body>
@@ -37,8 +37,8 @@
 
                         </div>
                         <div class="col-lg-6">
-                            <a :href="'http://ucc-labcompu2-historico.github.io/' + proyecto.url">
-                                <img :src="'https://api.miniature.io/?screen=1024&url=http://ucc-labcompu2-historico.github.io/' + proyecto.url "
+                            <a :href=`http://ucc-labcompu2-historico.github.io/${proyecto.url}`>
+                                <img :src=`https://api.miniature.io/?screen=1024&url=https://ucc-labcompu2-historico.github.io/${proyecto.url}`
                                      alt="" class="img-fluid img-thumbnail">
                             </a>
                         </div>

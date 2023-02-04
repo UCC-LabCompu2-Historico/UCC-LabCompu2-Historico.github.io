@@ -620,7 +620,25 @@ var datos = [
     {
         "tema": "Juego de Naves",
         "url": "proyecto2022-rufino-cascardo/index.html",
-        "autores": ["Cascardo, Giovanni", "Ruffino, Maximo"],
+        "autores": ["Cascardo, Giovanni", "Rufino, Maximo"],
+        "anio": "2022"
+    },
+    {
+        "tema": "Cripto Count",
+        "url": "Proyecto2022-Morales-Dalmasso/index.html",
+        "autores": ["Dalmaso, Bautista", "Morales, Antonio"],
+        "anio": "2022"
+    },
+    {
+        "tema": "Cálculo de Pendiente",
+        "url": "proyecto2021-marianonallar/index.html",
+        "autores": ["Nallar, Mariano"],
+        "anio": "2022"
+    },
+    {
+        "tema": "Multiplicador de Tablas",
+        "url": "proyecto2022-Cajal-Glaiel/Index.html",
+        "autores": ["Glaiel, Agustín", "Cajal, Pedro"],
         "anio": "2022"
     }
 ];
