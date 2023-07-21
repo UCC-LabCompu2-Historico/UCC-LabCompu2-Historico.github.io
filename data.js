@@ -157,7 +157,7 @@ var datos = [
     },
     {
         "tema": "Geometría",
-        "url": "proyectos2019-chiletti-vazquezdlcolina",
+        "url": "proyectos2019-chiletti-vazquezdlcolina/Index.html",
         "autores": ["Chiletti, Emanuel", "Vázquez de la Colina, Matías"],
         "anio": "2019"
     },
@@ -205,7 +205,7 @@ var datos = [
     },
     {
         "tema": "Triangulos Rectangulos",
-        "url": "proyectos2019-proyecto2019-vargas-merlo/index.html",
+        "url": "proyectos2019-proyecto2019-vargas-merlo",
         "autores": ["Merlo, Angelo", "Vargas, María Micaela"],
         "anio": "2019"
     },
@@ -217,7 +217,7 @@ var datos = [
     },
     {
         "tema": "Expresiones Algebraicas",
-        "url": " proyectos2019-proyecto2019-luna/index.html",
+        "url": "proyectos2019-proyecto2019-luna/index.html",
         "autores": ["Luna, Ignacio Emiliano"],
         "anio": "2019"
     },
@@ -640,6 +640,114 @@ var datos = [
         "url": "proyecto2022-Cajal-Glaiel/Index.html",
         "autores": ["Glaiel, Agustín", "Cajal, Pedro"],
         "anio": "2022"
+    },
+    {
+        "tema": "Calculadora de Conjuntos",
+        "url": "proyecto2022-quesada/Proyecto/index.html",
+        "autores": ["Quesada, Santiago"],
+        "anio": "2022"
+    },
+    {
+        "tema": "Max Shop",
+        "url": "proyecto2022-hernandez-marabotto/index.html",
+        "autores": ["Hernández, Simón", "Marabotto, Tiziano"],
+        "anio": "2022"
+    },
+    {
+        "tema": "Trivia Mundial",
+        "url": "proyecto2023-azcune-barrale/Preguntados/index.html",
+        "autores": ["Azcune, Axel", "Barrale, Simon"],
+        "anio": "2023"
+    },
+    {
+        "tema": "AirFacu",
+        "url": "proyecto2023-carrion-barlet/index.html",
+        "autores": ["Barlet, Léa", "Carrion, Vanessa"],
+        "anio": "2023"
+    },
+    {
+        "tema": "Índice de Masa Corporal",
+        "url": "proyecto2023-contreras-sofia/index.html",
+        "autores": ["Contreras, Sofía"],
+        "anio": "2023"
+    },
+    {
+        "tema": "Cotización del Dolar",
+        "url": "proyecto2023-lopez-villagra-crostelli/index.html",
+        "autores": ["Crostelli, Gerónimo", "Lopez Villagra, Baltazar"],
+        "anio": "2023"
+    },
+    {
+        "tema": "Draw++",
+        "url": "proyecto2023-eguia-mateos/proyecto/Index.html",
+        "autores": ["Eguia, Felipe", "Mateos, Francisco"],
+        "anio": "2023"
+    },
+    {
+        "tema": "Fogon Carnes",
+        "url": "proyecto2023-llancaman-graffigna/TRABAJO/Index.html",
+        "autores": ["Graffigna, Facundo", "Llancaman, Agustín"],
+        "anio": "2023"
+    },
+    {
+        "tema": "Fogon Carnes",
+        "url": "proyecto2023-llancaman-graffigna/TRABAJO/Index.html",
+        "autores": ["Graffigna, Facundo", "Llancaman, Agustín"],
+        "anio": "2023"
+    },
+    {
+        "tema": "Snake Game",
+        "url": "proyecto2023-marcos-huspenina/Proyecto/index.html",
+        "autores": ["Huspenina, Tomás", "Marcos Vergara, Joaquin"],
+        "anio": "2023"
+    },
+    {
+        "tema": "Turisteando",
+        "url": "proyecto2023-magoia-monzo/proyecto/index.html",
+        "autores": ["Magoia, Ignacio", "Monzo, Vicente"],
+        "anio": "2023"
+    },
+    {
+        "tema": "Juego Memory",
+        "url": "proyecto2023-alexis-pauline/index.html",
+        "autores": ["Fiscus, Pauline", "Gufflet, Alexis"],
+        "anio": "2023"
+    },
+    {
+        "tema": "Entrenando(me)",
+        "url": "Proyecto2023-Juncos-Oliveto/index.html",
+        "autores": ["Juncos, Bautista", "Oliveto, Sofia"],
+        "anio": "2023"
+    },
+    {
+        "tema": "Wordle",
+        "url": "proyecto2023-lopezv/index.html",
+        "autores": ["Lopez Villagra, Agustín"],
+        "anio": "2023"
+    },
+    {
+        "tema": "Chat GTP",
+        "url": "proyecto2023-olguin/index.html",
+        "autores": ["Olguin, Guido"],
+        "anio": "2023"
+    },
+    {
+        "tema": "BuscaMinas",
+        "url": "proyecto2023-perez-velasquez/index.html",
+        "autores": ["Perez, Agustina", "Velasquez, Mateo"],
+        "anio": "2023"
+    },
+    {
+        "tema": "Tasa de Rendimiento",
+        "url": "proyecto2023-rojas-nicolas/index.html",
+        "autores": ["Rojas, Nicolas"],
+        "anio": "2023"
+    },
+    {
+        "tema": "Crea tu Factura",
+        "url": "proyecto2023-salinas-strumia/index.html",
+        "autores": ["Salinas, María Delfina", "Strumia, María Constanza"],
+        "anio": "2023"
     }
 ];
 
