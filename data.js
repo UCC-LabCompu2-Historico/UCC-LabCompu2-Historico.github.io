@@ -486,6 +486,12 @@ var datos = [
         "anio": "2021"
     },
     {
+        "tema": "Relación de Compresión",
+        "url": "proyecto2021-carbel-dovidio/index.html",
+        "autores": ["Carbel, Juan Antonio", "Dovidio, Luciano"],
+        "anio": "2021"
+    },
+    {
         "tema": "Funciones Lineales",
         "url": "proyecto2022-chattas/index.html",
         "autores": ["Chattas, Maximo"],
@@ -747,6 +753,60 @@ var datos = [
         "tema": "Crea tu Factura",
         "url": "proyecto2023-salinas-strumia/index.html",
         "autores": ["Salinas, María Delfina", "Strumia, María Constanza"],
+        "anio": "2023"
+    },
+    {
+        "tema": "Calculadora de tiro parabólico",
+        "url": "proyecto2023-don/index.html",
+        "autores": ["Don, Marcos"],
+        "anio": "2023"
+    },
+    {
+        "tema": "Alogirithms Visualizer",
+        "url": "proyecto2023-ferreras-casavecchia/index.html",
+        "autores": ["Ferreras, Manuel", "Casavecchia, Franco"],
+        "anio": "2023"
+    },
+    {
+        "tema": "Calculadora de Perímetro",
+        "url": "proyecto2023-sponton-victoria/index.html",
+        "autores": ["Sponton, Victoria"],
+        "anio": "2023"
+    },
+    {
+        "tema": "Me Estoy Moviendo",
+        "url": "proyecto2023-ruival/index.html",
+        "autores": ["Ruival, María"],
+        "anio": "2023"
+    },
+    {
+        "tema": "Graficador de Funciones",
+        "url": "proyecto2023-carbel-ditomaso/index.html",
+        "autores": ["Ditomaso, Agustin", "Carbel, Matias"],
+        "anio": "2023"
+    },
+    {
+        "tema": "$neakers Store Argentina",
+        "url": "proyecto2023-carpineti-castellani/index.html",
+        "autores": ["Castellani, Franco", "Carpineti, Octavio"],
+        "anio": "2023"
+    },
+    {
+        "tema": "Encontra la mejor hamburguesa",
+        "url": "proyecto2023-hueda-tula-cuozzo/index.html",
+        "autores": ["Cuozzo, Sofia", "Hueda, Luciana", "Tula, Sofia"],
+        "anio": "2023"
+    },
+    {
+        "tema": "Fiat Web Page",
+        "url": "proyecto2023-imanol-decara/Index.html",
+        "autores": ["Decara, Imanol"],
+        "anio": "2023"
+    },
+    {
+        "tema": "Energym",
+        "url": "proyecto2023-aguirre-cabanilla/index.html",
+        "autores": ["Aguirre, Ignacio Facundo", "Cabanilla, Tomas"],
         "anio": "2023"
     }
 ];

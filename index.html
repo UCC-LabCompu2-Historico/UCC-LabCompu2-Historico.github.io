@@ -24,7 +24,7 @@
             <div class="card flex-fill mb-3">
                 <div class="card-header">
                     <h4>{{ proyecto.tema }}</h4>
-                    <a class="badge" :href="'http://www.github.com/ucc-labcompu2-historico/' + proyecto.url"><span class="fa fa-github"></span>Repo</a>
+                    <a class="badge" :href="'http://www.github.com/ucc-labcompu2-historico/' + proyecto.url.replace('/index.html','').replace('/Index.html','')"><span class="fa fa-github"></span>Repo</a>
                     <span class="float-right badge badge-secondary"><b>Año </b>{{ proyecto.anio }}</span>
                 </div>
                 <div class="card-body">
