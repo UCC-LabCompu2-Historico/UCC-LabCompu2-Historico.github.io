@@ -939,6 +939,30 @@ var datos = [
         "url": "proyecto2024-fernandez-favaron/index.html",
         "autores": ["Fernandez Favaron, Juan Ignacio"],
         "anio": "2024"
+    },
+    {
+        "tema": "Gimnasio",
+        "url": "proyecto2024-lucero-zudair-lussana/index.html",
+        "autores": ["Lussana, Ana Paula", "Lucero Zudaire, Maria Luz"],
+        "anio": "2024"
+    },
+    {
+        "tema": "Adivinanzas",
+        "url": "proyecto2024-JazminSanchez/index.html",
+        "autores": ["Sanchez, Jazmín"],
+        "anio": "2024"
+    },
+    {
+        "tema": "Rhythm Fusion Zone",
+        "url": "proyecto2024-esterio-vera/index.html",
+        "autores": ["Esterio,Franco Nicolas", "Vera, Ignazio"],
+        "anio": "2024"
+    },
+    {
+        "tema": "Cálculo del IMC",
+        "url": "proyecto2024-NoelLardin-deMesmay/index.html",
+        "autores": ["Noël-Lardin, Quentin", "de Mesmay, Tristan"],
+        "anio": "2024"
     }
 ];
 
