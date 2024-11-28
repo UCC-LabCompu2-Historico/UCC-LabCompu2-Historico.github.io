@@ -808,6 +808,137 @@ var datos = [
         "url": "proyecto2023-aguirre-cabanilla/index.html",
         "autores": ["Aguirre, Ignacio Facundo", "Cabanilla, Tomas"],
         "anio": "2023"
+    },
+    {
+        "tema": "Generador de Llaves de Torneos",
+        "url": "proyecto2023-felipe-demo/index.html",
+        "autores": ["Demo, Felipe"],
+        "anio": "2023"
+    },
+    {
+        "tema": "Servicios Forestales",
+        "url": "proyecto2023-rame/index.html",
+        "autores": ["Ramé, Micaela"],
+        "anio": "2023"
+    },
+    {
+        "tema": "Rulab",
+        "url": "proyecto2023-bugliotti-sanchez/index.html",
+        "autores": ["Bugliotti, Marcos", "Sanchez Jeronimo"],
+        "anio": "2023"
+    },
+    {
+        "tema": "Pingu Tarot",
+        "url": "proyecto2024-funes-guevara/index.html",
+        "autores": ["Funes Guevara, Ana Rosario"],
+        "anio": "2024"
+    },
+    {
+        "tema": "Quiz Deportes",
+        "url": "proyecto2024-bistolfi-pan/index.html",
+        "autores": ["Bistolfi Pan, Brianna"],
+        "anio": "2024"
+    },{
+        "tema": "Graficadora de Funciones",
+        "url": "proyecto2024-bruna-abella/index.html",
+        "autores": ["Abella, Maximo", "Bruna, Facundo"],
+        "anio": "2024"
+    },
+    {
+        "tema": "Gimnasio La Roca",
+        "url": "proyecto2024-morini-lopez/index.html",
+        "autores": ["Lopez, Franco", "Morini, Germán"],
+        "anio": "2024"
+    },
+    {
+        "tema": "CanchasExpress",
+        "url": "proyecto2024-alfei-cabral/index.html",
+        "autores": ["Alfei, Mateo", "Cabral, Juan Ignaio"],
+        "anio": "2024"
+    },
+    {
+        "tema": "Tunning",
+        "url": "proyecto2024-bono-bocco/index.html",
+        "autores": ["Bono, Nicolas", "Bocco, Matias"],
+        "anio": "2024"
+    },
+    {
+        "tema": "Agencia de viajes",
+        "url": "proyecto2024-ferrer/index.html",
+        "autores": ["Ferrer, Dante"],
+        "anio": "2024"
+    },
+    {
+        "tema": "Graph Wave",
+        "url": "proyecto2024-garcia-villanueva-godino/index.html",
+        "autores": ["Godino,Ma. Eugenia", "García Villanueva, Andrés"],
+        "anio": "2024"
+    },
+    {
+        "tema": "Viaje en Lyon",
+        "url": "proyecto2024-foraz-braemer/index.html",
+        "autores": ["Braemer, Josephine", "Foraz, Edouard"],
+        "anio": "2024"
+    },
+    {
+        "tema": "Física Fácil, Cálculo MRU",
+        "url": "Proyecto2024-CarranzaSantiago-GalavernaLorenzo/index.html",
+        "autores": ["Galaverna, Lorenzo", "Carranza Santiago"],
+        "anio": "2024"
+    },
+    {
+        "tema": "Flopy Engine",
+        "url": "proyecto2024-fabiani/index.html",
+        "autores": ["Fabiani, Lucas"],
+        "anio": "2024"
+    },
+    {
+        "tema": "Ecommerce",
+        "url": "proyecto2024-heredia-erazo/index.html",
+        "autores": ["Heredia Jalid, Iván", "Erazo, Sofía Lumilen"],
+        "anio": "2024"
+    },
+    {
+        "tema": "Goal Guardian",
+        "url": "proyecto2023-mariano-araya/index.html",
+        "autores": ["Araya, Mariano Joaquin"],
+        "anio": "2024"
+    },
+    {
+        "tema": "Sortea2",
+        "url": "proyecto2024-falco-gomez/index.html",
+        "autores": ["Gómez Figueroa, Magdalena", "Falco, Francisca"],
+        "anio": "2024"
+    },
+    {
+        "tema": "Tus Acordes",
+        "url": "proyecto2024-boz/index.html",
+        "autores": ["Boz, Emanuel"],
+        "anio": "2024"
+    },
+    {
+        "tema": "Preguntados de Banderas",
+        "url": "proyecto2024-baudino/index.html",
+        "autores": ["Baudino, Felipe José"],
+        "anio": "2024"
+    },
+    {
+        "tema": "Horoscopo Gamer",
+        "url": "Proyecto-Hernandez-Cuello/index.html",
+        "autores": ["Hernandez Juan", "Cuello Pizarro Ismael"],
+        "anio": "2024"
+    },
+    {
+        "tema": "El Flaco Y La Viola",
+        "url": "proyecto2024-maggi-rondon/index.html",
+        "autores": ["Maggi, Tomas", "Rondon, Juan"],
+        "anio": "2024"
+    },
+    {
+        "tema": "Empresa agropecuaria",
+        "url": "proyecto2024-fernandez-favaron/index.html",
+        "autores": ["Fernandez Favaron, Juan Ignacio"],
+        "anio": "2024"
     }
 ];
 
